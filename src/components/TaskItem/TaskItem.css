@@ -1,0 +1,10 @@
+.task-item {
+	display: grid;
+	align-items: center;
+	grid-template-columns: auto 1fr auto;
+}
+.task-item input {
+	padding: 4px;
+	border: none;
+	margin: 4px;
+}
